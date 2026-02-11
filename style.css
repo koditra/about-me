@@ -7,6 +7,12 @@ body {
   padding: 20px;
 }
 
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+}
+
 h1 {
   color: #222;
 }
